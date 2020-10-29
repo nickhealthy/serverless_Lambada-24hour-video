@@ -1,3 +1,0 @@
-custom-authorizer
-
-test.csv
