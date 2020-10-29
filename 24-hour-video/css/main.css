@@ -1,0 +1,15 @@
+/* 로그아웃 버튼과 프로필 버튼은 최초(시작할 때)에는 보이지 않아야 하므로, diplay: none; 으로 설정 */
+ 
+#auth0-logout {
+	display: none;
+ }
+  
+ #user-profile {
+	display: none;
+ }
+  
+ #profilepicture {
+	height: 20px;
+	width: 20px;
+ }
+ 
